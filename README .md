@@ -1,6 +1,6 @@
 # Hands-on S3-01 : S3 Website Hosting, Versioning, Logging and Lifecycle Management
 
-Purpose of the this hands-on training is to instruct students how to to create a S3 bucket, how to configure S3 to host static website and to give understanding to versioning and logging.
+The Purpose of the this hands-on training is to instruct students how to to create a S3 bucket, how to configure S3 to host static website and to give understanding to versioning and logging.
 
 ## Learning Outcomes
 
